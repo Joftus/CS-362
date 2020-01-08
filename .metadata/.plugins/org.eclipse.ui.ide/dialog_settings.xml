@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/joshloftus/Desktop/2.2/Com S 362 NS/362 Workspace/Canvas_3.25.19"/>
+			<item value="/Users/joshloftus/Desktop/2.2/Com S 309/309 Workspace/save_3.21.19"/>
+			<item value="/Users/joshloftus/Desktop/2.2/Com S 309/309 Workspace/save_3.13.19"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;BasicInterface.java&apos; to &apos;Canvas/src/main/java/ComS.Project.Main&apos;&#x0A;- Original project: &apos;Storage&apos;&#x0A;- Destination element: &apos;Canvas/src/main/java/ComS.Project.Main&apos;&#x0A;- Original element: &apos;BasicInterface.java&apos;&#x0A;- Update references to refactored element" description="Move file" destination="=Canvas/src\/main\/java&lt;ComS.Project.Main" element1="BasicInterface.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1552607194973" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=4
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.mysql=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.sqlserver=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=Canvas
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.1.3.RELEASE
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=ComS 362 Project
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=ComS.Project
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=Canvas
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=ComS.Project.Canvas
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.2
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n
